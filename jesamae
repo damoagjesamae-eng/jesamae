@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Personal Web Profile</title>
+
+    <link rel="icon" href="favicon.png">
+</head>
+
+<body style="background-color:#fafafa; font-family:Arial; padding:20px;">
+
+    <h1 style="color:rgb(231, 3, 3);">Jesa Mae O. Damo-ag</h1>
+
+    <h2 style="color:green;">BS Computer Science Student</h2>
+
+<hr>
+
+    <p>
+    <b>Hi there!</b> My name is <strong>Jesa Mae O. Damo-ag</strong>.  
+    I am a <i>Computer Science student</i> who is passionate about learning how  
+    <u>software development and computer technologies</u> work.  
+    I enjoy studying <mark>programming languages and web development</mark> and improving my  
+    <em>analytical and coding skills</em> every day.  
+    I believe learning is a <del>difficult journey</del> rewarding journey that builds both  
+    <strong>technical expertise</strong> and creativity.
+</p>
+
+    <hr>
+
+    <h2 style="color:blue;">Profile Picture</h2>
+
+    <img src="jisamii.jpg" alt="Jesa Mae O. Damo-ag Profile Picture" width="200">
+
+    <br><br>
+
+    <a href="https://www.facebook.com/profile.php?id=61582253830958" target="_blank">
+        Visit My Facebook Profile
+    </a>
+
+    <hr>
+
+    <h2 style="color:purple;">Favorite Quote</h2>
+
+    <blockquote>
+        "It always seems impossible until it's done."
+    </blockquote>
+
+    <cite>
+    &mdash; Steve Jobs |
+    <a href="https://wisdomquotes.com/famous-quotes/" target="_blank">
+        Source
+    </a>
+</cite>
+
+    <hr>
+
+    <h2 style="background-color:lightyellow;">My Hobbies</h2>
+
+    <ul>
+        <li>Developing simple coding projects</li>
+        <li>Exploring new programming technologies</li>
+        <li>Watching computer science tutorials</li>
+    </ul>
+
+    <hr>
+
+    <h2>My Short-Term Goals</h2>
+
+    <ol>
+        <li>Strengthen my programming fundamentals</li>
+        <li>Build a portfolio of personal coding projects</li>
+        <li>Improve my skills in Java, HTML, and Databases</li>
+    </ol>
+
+    <hr>
+
+    <h2>Technical Terms</h2>
+
+    <dl>
+        <dt>Algorithm</dt>
+        <dd>A step-by-step procedure used to solve problems or perform tasks.</dd>
+
+        <dt>Compiler</dt>
+        <dd>A program that translates source code into machine-readable instructions.</dd>
+
+        <dt>Object-Oriented Programming</dt>
+        <dd>A programming approach that organizes code using objects and classes.</dd>
+    </dl>
+
+    <hr>
+
+    <h2 style="border:2px solid black; padding:5px;">
+        Skills and Software
+    </h2>
+
+    <table border="1" cellpadding="10">
+        <tr>
+            <th>Category</th>
+            <th>Details</th>
+        </tr>
+
+         <tr>
+            <td>Programming Languages</td>
+            <td>HTML, Java, Python</td>
+        </tr>
+
+        <tr>
+            <td>Tools</td>
+            <td>Visual Studio Code, GitHub</td>
+        </tr>
+
+        <tr>
+            <td>Skill Level</td>
+            <td>Beginner to Intermediate</td>
+        </tr>
+    </table>
+
+    <hr>
+
+    <h2 style="color:darkgreen;">About Me</h2>
+
+    <p style="background-color:lightyellow;">
+        I am a Computer Science student who enjoys learning new technologies and programming concepts.
+    </p>
+
+    <p style="font-size:20px;">
+        I aspire to create innovative software solutions that can make everyday tasks easier.
+    </p>
+
+    <p style="border:2px solid navy;">
+        I continuously improve my technical skills through projects and practical experience.
+    </p>
+
+    <p style="padding:15px; background-color:lightblue;">
+        I believe dedication and continuous learning are important qualities for every computer scientist.
+    </p>
+
+    <hr>
+
+    <h2>Block and Inline Elements</h2>
+
+    <p><strong>Block Element Example:</strong></p>
+
+    <section style="background-color:lightgray; padding:10px;">
+        This is a block element because it takes full width and starts on a new line.
+    </section>
+
+    <br>
+
+    <p><strong>Inline Element Example:</strong></p>
+
+    <p>
+        I am studying <span style="background-color:yellow;">Computer Science</span>
+        at Saint Michael College of Caraga.
+    </p>
+
+</body>
+</html>
